@@ -1,0 +1,40 @@
+{
+  "name": "en-emergencias-nicaragua-content",
+  "version": "0.0.1",
+  "description": "HTML Minifier",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Eyling/Emergency-name.git"
+  },
+  "author": {
+    "name": "Eyling Montenegro",
+    "email": "eylingsofia@gmail.com",
+    "url": "http://www.mcnallydevelopers.com"
+  },
+  "keywords": [
+    "html",
+    "emergency",
+    "nicaragua",
+    "Minifier"
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-htmlmin": "^0.3.0"
+  },
+  "scripts": {
+    "docs": "grunt docs"
+  },
+  "dependencies": {
+    "marked": "^0.3.2",
+    "request": "^2.40.0"
+  },
+  "bugs": {
+    "url": "https://github.com/paulomcnally/grunt-node-api-docs-responsive/issues/new",
+    "email": "paulomcnally@gmail.com"
+  }
+}
